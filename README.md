@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ayushi Gupta
-- 👀 I’m interested in python, Cloud Computing
+- 👀 I’m interested in Web Development, Cloud Computing, Python
 - 🌱 I’m currently learning Java and Machine Learning implementation using cloud computing
 - 💞️ I’m looking to collaborate on project requiring python scripting 
-- 📫 How to reach me email me at ayushigupta19062001@gmail.com
+- 📫 Reach me out at ayushiofficial19@gmail.com
 - 
 
 <!---
